@@ -1,0 +1,4 @@
+- 👋 × Hi, ich bin David
+- 👀 × Ich intressiere mich fürs Programmieren
+- 🌱 × Derzeit lerne ich Python und auf Discord die Libary Py-cord
+- 📫 × Bin hier erreichtbar https://discord.gg/paradies
