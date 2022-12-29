@@ -1,4 +1,3 @@
-- 👋 × Hi, ich bin David
-- 👀 × Ich intressiere mich fürs Programmieren
-- 🌱 × Derzeit lerne ich Python und auf Discord die Libary Py-cord
-- 📫 × Bin hier erreichtbar https://discord.gg/paradies
+<h1>Hello, Timo here!</h1>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/809739434537910283)](https://discord.com/users/809739434537910283)
