@@ -36,8 +36,23 @@
 </ul>
 
 <h3 align="left">Tech Stack</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pycharm,discordbots,fastapi,git,sqlite,postgres,unreal,java,kotlin,js,ts,nodejs,androidstudio,cpp,bash,aws,graphql,html&perline=9" />
-  </a>
-</p>
+
+[![](https://skillicons.dev/icons?i=py)](https://python.org/ "Python")
+[![](https://skillicons.dev/icons?i=pycharm)](https://jetbrains.com/pycharm/ "PyCharm")
+[![](https://skillicons.dev/icons?i=discordbots)](https://discord.dev/ "Discord Bots")
+[![](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/ "FastAPI")
+[![](https://skillicons.dev/icons?i=git)](https://git-scm.com/ "Git")
+[![](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/ "SQLite")
+[![](https://skillicons.dev/icons?i=postgres)](https://postgresql.org/ "PostgreSQL")
+[![](https://skillicons.dev/icons?i=unreal)](https://unrealengine.com/ "Unreal Engine")
+[![](https://skillicons.dev/icons?i=java)](https://www.java.com/ "Java")
+[![](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/ "Kotlin")
+[![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript")
+[![](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/ "TypeScript")
+[![](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/ "Node.js")
+[![](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio "Android Studio")
+[![](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/ "C++")
+[![](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/ "Bash")
+[![](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/ "AWS")
+[![](https://skillicons.dev/icons?i=graphql)](https://graphql.org/ "GraphQL")
+[![](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML "HTML")
