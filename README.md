@@ -28,13 +28,6 @@
 
 ---
 
-<h3 align="left">About Me</h3>
-<ul>
-  <li>Building Discord bots, backend tools, and small Android/web projects</li>
-  <li>Interested in automation, APIs, databases, and practical full-stack development</li>
-  <li>Learning by building real projects instead of collecting tutorials</li>
-</ul>
-
 <h3 align="left">Tech Stack</h3>
 
 [![](https://skillicons.dev/icons?i=py)](https://python.org/ "Python")
