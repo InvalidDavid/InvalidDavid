@@ -37,7 +37,6 @@
 [![](https://skillicons.dev/icons?i=git)](https://git-scm.com/ "Git")
 [![](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/ "SQLite")
 [![](https://skillicons.dev/icons?i=postgres)](https://postgresql.org/ "PostgreSQL")
-[![](https://skillicons.dev/icons?i=unreal)](https://unrealengine.com/ "Unreal Engine")
 [![](https://skillicons.dev/icons?i=java)](https://www.java.com/ "Java")
 [![](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/ "Kotlin")
 [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript")
